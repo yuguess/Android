@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyActivity!</string>
+    <string name="app_name">Small Demo</string>
+    <string name="tabs_1_tab_1">tab1</string>
+    <string name="tabs_1_tab_2">tab2</string>
+    <string name="tabs_1_tab_3">testtab3</string>
+</resources>
